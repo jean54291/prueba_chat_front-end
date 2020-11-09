@@ -100,10 +100,10 @@ const Home = () => {
         }
         mensajeFecthData();
     }
-    // setTimeout(() => {
-    //     actualizarChat()
-    //     actualizarMensajes()
-    // }, 9000);
+    setTimeout(() => {
+        actualizarChat()
+        actualizarMensajes()
+    }, 10000);
     const borrarMensaje = (mensaje_data) =>{
         // console.log(mensaje_data)
         const headers = {
