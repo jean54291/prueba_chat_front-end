@@ -1,0 +1,15 @@
+npm i react.redux redux redux-thunk
+npm install react-router-dom
+npm install react-bootstrap
+npm i --save @fortawesome/fontawesome-svg-core  @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
+npm install react-bootstrap-table-next --save
+npm i react-bootstrap-table2-filter react-bootstrap-table2-editor react-bootstrap-table2-paginator react-bootstrap-table2-toolkit react-bootstrap-table2-overlay --save
+npm i --save @devexpress/dx-react-core @devexpress/dx-react-chart
+npm i --save @devexpress/dx-react-core @devexpress/dx-react-grid
+npm i --save @devexpress/dx-react-grid-export
+npm i --save @devexpress/dx-react-grid-bootstrap4
+npm i --save @devexpress/dx-react-chart-bootstrap4
+npm install axios
+npm install --save moment
+npm install react-files --save
+npm install --save react-native-fetch-blob

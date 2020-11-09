@@ -1,0 +1,29 @@
+@media (max-width: 999px) { 
+
+    html {
+      background-color: #ffffff;
+    }
+    body {
+      font-family: "Poppins", sans-serif;
+      height: 150vh;
+      margin: 0 auto;
+      
+      background-color: #ffffff;
+    }
+    footer{
+      position:relative;
+      left:0px;
+      bottom:0px;
+      height:30px;
+      width:100%;
+      align-content: center;
+      text-align: center;
+      color: ffffff;
+      background-color: #343a40!important;
+    }
+  }
+  
+
+  
+  
+  
